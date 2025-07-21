@@ -171,9 +171,9 @@ journalctl -u logstash -f
 
 | Old Logs | Replaced With |
 |----------|----------------|
-| `/var/log/mail.log` | `/var/log/nginx/access.log` |
-| `/var/log/dovecot.log` | `/var/log/apache2/access.log` |
-| `/var/log/sogo/sogo.log` | `/var/log/mysql/error.log` |
+| `/var/log/dpkg.log` | `/var/log/nginx/access.log` |
+| `/var/log/kern.log` | `/var/log/apache2/access.log` |
+| `/var/log/auth.log` | `/var/log/mysql/error.log` |
 
 ---
 
