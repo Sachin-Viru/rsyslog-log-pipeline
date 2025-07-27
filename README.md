@@ -197,6 +197,3 @@ journalctl -u logstash -f
 
 ---
 
-## 📝 License
-
-MIT License. Free to use and modify.
